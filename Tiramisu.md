@@ -1,0 +1,1 @@
+## Tiramisu - 5 Eigelb - 150 *g* Zucker - 2 EL heißes Wasser5 Minuten schaumig schlagen.- 500 *g* Mascarpone - 15 Löffelbisquits ### Schnee:- 50 *g* Zucker- 5 EiweißKaffee, Amaretto, 4 h kalt stellen.Kakao.

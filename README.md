@@ -1,1 +1,17 @@
-# rezepte
+# Rezepte
+
+- [Apfelkuchen](./Apfelkuchen.md)
+- [Apfelstrudel](./Apfelstrudel.md)
+- [Apfelwaffeln](./Apfelwaffeln.md)
+- [Bacalhau](./Bacalhau.md)
+- [Bananenkuchen](./Bananenkuchen.md)
+- [Chili con Carne](./Chili con Carne.md)
+- [Gebackener Blumenkohl](./Gebackener Blumenkohl.md)
+- [Italienische Fischsuppe](./Italienische Fischsuppe.md)
+- [Lasagne](./Lasagne.md)
+- [Mohnkuchen](./Mohnkuchen.md)
+- [Portugiesische Kürbiskuchen](./Portugiesische Kürbiskuchen.md)
+- [Quarkkuchen](./Quarkkuchen.md)
+- [Quarktorte](./Quarktorte.md)
+- [Tiramisu](./Tiramisu.md)
+- [Zwiebelkuchen](./Zwiebelkuchen.md)
