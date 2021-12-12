@@ -10,7 +10,7 @@
 - [Italienische Fischsuppe](./Italienische Fischsuppe.md)
 - [Lasagne](./Lasagne.md)
 - [Mohnkuchen](./Mohnkuchen.md)
-- [Portugiesische Kürbiskuchen](./Portugiesische Kürbiskuchen.md)
+- [Portugiesische Kürbiskuchen](./Portugiesische-Kürbiskuchen.md)
 - [Quarkkuchen](./Quarkkuchen.md)
 - [Quarktorte](./Quarktorte.md)
 - [Tiramisu](./Tiramisu.md)
